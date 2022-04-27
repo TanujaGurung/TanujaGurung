@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 <!-- -   through mail: vinodkumara3@gmail.com -->
 <!-- -   HackerRank <a href="https://www.hackerrank.com/certificates/e7beaa3df808">Problem Solving (Intermediate) Certificate</a> -->
 <!-- -   <a href="https://codeforces.com/profile/TanujaGurung">CodeForces</a> -->
- -->
+ 
 
 
-## 🔧 Technologies & Tools
+<!-- ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/-Linux-black?logo=linux)
 ![](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)
@@ -39,12 +39,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-npm-EFDECD?logo=npm)
 ![](https://img.shields.io/badge/-Node.js-334183?logo=Node.js)
 ![](https://img.shields.io/badge/-mongodb-c14438?logo=mongodb)
-
+<!-- 
 <!-- ![](https://img.shields.io/badge/-Html-yellow?logo=html5)
-![](https://img.shields.io/badge/-Css-2jbc1a?logo=css3) -->
+![](https://img.shields.io/badge/-Css-2jbc1a?logo=css3) --> -->
 
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=TanujaGurung)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanujaGurung&theme=radical" alt="TanujaGurung" /></p>
  
-
+ -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TanujaGurung&show_icons=true&count_private=true&theme=radical)
 
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 <!--![Metrics](https://metrics.lecoq.io/TanujaGurung?template=terminal&languages=1&stars=1&stackoverflow=1&languages.colors=github&languages.threshold=0%25&stars.limit=4&stackoverflow.user=1934182&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&config.timezone=Asia%2FCalcutta)-->
 
-Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/TanujaGurung/count.svg)
+<!-- Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/TanujaGurung/count.svg)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
@@ -71,11 +71,11 @@ Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/TanujaGurung/c
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-
+ 
 <!---
 TanujaGurung/TanujaGurung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
 
-<p style="text-align: center;">Plus Ultra</p>
-<p>GO OUT OF CONTROL WITH CONTROL</p>
+<!-- 
+<p style="text-align: center;">Plus Ultra</p> -->
+<p>Be Mad to Achieve Goals</p>
